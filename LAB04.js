@@ -147,9 +147,17 @@ let ctx = canvas.getContext('2d');
         ctx.strokeStyle = 'green'; 
         ctx.stroke(); 
         ctx.closePath();
-        //arco inferior incompleto
+
+        //arco inferior incompleto esquerdo
         ctx.beginPath();
-        ctx.arc(343,400,200,Math.PI,-2.36); 
+        ctx.arc(320,400,200,Math.PI,-2.22); 
+        ctx.lineWidth = 2;     
+        ctx.strokeStyle = 'green';  
+        ctx.stroke();           
+        ctx.closePath();    
+        //arco inferior incompleto direito
+        ctx.beginPath();
+        ctx.arc(220,400,80, -2,0 * Math.PI); 
         ctx.lineWidth = 2;     
         ctx.strokeStyle = 'green';  
         ctx.stroke();           
