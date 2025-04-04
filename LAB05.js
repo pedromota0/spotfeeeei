@@ -162,3 +162,4 @@ let ctx = canvas.getContext('2d');
         ctx.strokeStyle = 'green';  
         ctx.stroke();           
         ctx.closePath();    
+        
