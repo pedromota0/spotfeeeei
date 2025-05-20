@@ -1,0 +1,62 @@
+{
+  "usuarios": {
+    "pedro": {
+      "senha": "moat",
+      "curtidas": [],
+      "descurtidas": [],
+      "playlists": {}
+    }
+  },
+  "musicas": {
+    "Shape of You": {
+      "artista": "Ed Sheeran",
+      "genero": "Pop",
+      "ano": 2017
+    },
+    "Bohemian Rhapsody": {
+      "artista": "Queen",
+      "genero": "Rock",
+      "ano": 1975
+    },
+    "Blinding Lights": {
+      "artista": "The Weeknd",
+      "genero": "Synthpop",
+      "ano": 2019
+    },
+    "Levitating": {
+      "artista": "Dua Lipa",
+      "genero": "Pop",
+      "ano": 2020
+    },
+    "Peaches": {
+      "artista": "Justin Bieber",
+      "genero": "R&B",
+      "ano": 2021
+    },
+    "Happier Than Ever": {
+      "artista": "Billie Eilish",
+      "genero": "Alternative",
+      "ano": 2021
+    },
+    "Drivers License": {
+      "artista": "Olivia Rodrigo",
+      "genero": "Pop",
+      "ano": 2021
+    },
+    "Bad Guy": {
+      "artista": "Billie Eilish",
+      "genero": "Electropop",
+      "ano": 2019
+    },
+    "Stay": {
+      "artista": "The Kid LAROI & Justin Bieber",
+      "genero": "Pop",
+      "ano": 2021
+    },
+    "Save Your Tears": {
+      "artista": "The Weeknd",
+      "genero": "Pop",
+      "ano": 2020
+    }
+  }
+}
