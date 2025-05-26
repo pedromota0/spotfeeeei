@@ -1,4 +1,4 @@
-# spotifei.py
+
 
 import json
 import os
@@ -6,7 +6,7 @@ import os
 # Caminho do arquivo de banco de dados
 CAMINHO_BANCO = "banco_spotifei.json"
 
-# Carregar banco de dados de arquivo (se existir)
+# Carregar banco de dados de arquivo 
 if os.path.exists(CAMINHO_BANCO):
     with open(CAMINHO_BANCO, "r", encoding="utf-8") as f:
         banco = json.load(f)

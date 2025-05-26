@@ -5,6 +5,56 @@
       "curtidas": [],
       "descurtidas": [],
       "playlists": {}
+    },
+    "rafael": {
+      "senha": "1234",
+      "curtidas": [
+        "Shape of You"
+      ],
+      "descurtidas": [
+        "Shape of You"
+      ],
+      "playlists": {
+        "Mais ouvidas": []
+      }
+    },
+    "mota": {
+      "senha": "1234",
+      "curtidas": [],
+      "descurtidas": [],
+      "playlists": {}
+    },
+    "henrique": {
+      "senha": "1234",
+      "curtidas": [
+        "All that matters"
+      ],
+      "descurtidas": [
+        "All that matters"
+      ],
+      "playlists": {}
+    },
+    "sousa": {
+      "senha": "4321",
+      "curtidas": [],
+      "descurtidas": [],
+      "playlists": {}
+    },
+    "lucas": {
+      "senha": "1234",
+      "curtidas": [],
+      "descurtidas": [],
+      "playlists": {}
+    },
+    "gabriel": {
+      "senha": "1234",
+      "curtidas": [
+        "felicidade"
+      ],
+      "descurtidas": [
+        "felicidade"
+      ],
+      "playlists": {}
     }
   },
   "musicas": {
@@ -56,6 +106,36 @@
     "Save Your Tears": {
       "artista": "The Weeknd",
       "genero": "Pop",
+      "ano": 2020
+    },
+    "Baby": {
+      "artista": "Justin Bieber",
+      "genero": "",
+      "ano": 2012
+    },
+    "One time": {
+      "artista": "Justin Bieber",
+      "genero": "Pop",
+      "ano": 2015
+    },
+    "All that matters": {
+      "artista": "Justin Bieber",
+      "genero": "Pop",
+      "ano": 2020
+    },
+    "Happier": {
+      "artista": "Marshmallow",
+      "genero": "Eletronica",
+      "ano": 2020
+    },
+    "fe que vai dar certo": {
+      "artista": "mc lemos",
+      "genero": "funk",
+      "ano": 2019
+    },
+    "felicidade": {
+      "artista": "pedro",
+      "genero": "pop",
       "ano": 2020
     }
   }
